@@ -1,2 +1,2 @@
-# instaply-connect-ios
+# Instaply Connect iOS
 Instaply Connect SDK for iOS
