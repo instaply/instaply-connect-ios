@@ -13,8 +13,7 @@ let package = Package(
             name: "InstaplyConnect",
             targets: ["InstaplyConnect"]),
     ],
-    dependencies: [
-    ],
+    dependencies: [],
     targets: [
         .binaryTarget(
             name: "InstaplyConnect",
