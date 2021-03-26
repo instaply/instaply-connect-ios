@@ -18,7 +18,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "InstaplyConnect",
-            url: "https://github.com/instaply/instaply-connect-ios/releases/download/1.0.0-alpha/InstaplyConnect.xcframework.zip",
+            url: "https://github.com/instaply/instaply-connect-ios-binaries/releases/download/1.0.0-alpha/InstaplyConnect.xcframework.zip",
             checksum: "ec47e5298c973c2b13ce367b71d7d86bc1a91834eec168c3f794a2dcac42e762"
         )
     ]
