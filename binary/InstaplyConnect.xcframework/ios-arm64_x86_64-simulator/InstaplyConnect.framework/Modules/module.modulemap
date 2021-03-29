@@ -1,0 +1,11 @@
+framework module InstaplyConnect {
+  umbrella header "InstaplyConnect.h"
+
+  export *
+  module * { export * }
+}
+
+module InstaplyConnect.Swift {
+    header "InstaplyConnect-Swift.h"
+    requires objc
+}
