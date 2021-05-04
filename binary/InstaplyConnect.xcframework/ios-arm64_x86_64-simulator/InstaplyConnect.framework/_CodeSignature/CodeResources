@@ -10,7 +10,7 @@
 		</data>
 		<key>Headers/InstaplyConnect-Swift.h</key>
 		<data>
-		c+0EohoUdHsYuOdufNOLMXmBc2s=
+		ea5vY+uxfTfX/QeVh2gurQUIsGM=
 		</data>
 		<key>Headers/InstaplyConnect.h</key>
 		<data>
@@ -18,7 +18,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		V6vpXc1U3avDWGxl2zYLk2CCkQU=
+		AmNpr2pmjUUHbt0YrIWw2uR3Vm4=
 		</data>
 		<key>Modules/InstaplyConnect.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -26,11 +26,11 @@
 		</data>
 		<key>Modules/InstaplyConnect.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		fGw9TJauy6OeW6NuW3vo4yPuq64=
+		LWdegIMLkjzlBL42LP6OFBFGXvg=
 		</data>
 		<key>Modules/InstaplyConnect.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		EsO71eboIIBGIAUg2WFWlhGpb5Q=
+		h2RLQWxpXGROXZVY6utb37kBZlY=
 		</data>
 		<key>Modules/InstaplyConnect.swiftmodule/arm64.swiftdoc</key>
 		<data>
@@ -38,11 +38,11 @@
 		</data>
 		<key>Modules/InstaplyConnect.swiftmodule/arm64.swiftinterface</key>
 		<data>
-		fGw9TJauy6OeW6NuW3vo4yPuq64=
+		LWdegIMLkjzlBL42LP6OFBFGXvg=
 		</data>
 		<key>Modules/InstaplyConnect.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		EsO71eboIIBGIAUg2WFWlhGpb5Q=
+		h2RLQWxpXGROXZVY6utb37kBZlY=
 		</data>
 		<key>Modules/InstaplyConnect.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -50,11 +50,11 @@
 		</data>
 		<key>Modules/InstaplyConnect.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		BHrw59qZpwuAHXW8yG+ByiAoev8=
+		2NfiKwsdXKJcxe8XuFwefeDPMsI=
 		</data>
 		<key>Modules/InstaplyConnect.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		kgcnwYvyAGRVYH9FHlOuh5BW+qA=
+		KfDjV6rsbogoQ3/O5rt5IQmeX2c=
 		</data>
 		<key>Modules/InstaplyConnect.swiftmodule/x86_64.swiftdoc</key>
 		<data>
@@ -62,11 +62,11 @@
 		</data>
 		<key>Modules/InstaplyConnect.swiftmodule/x86_64.swiftinterface</key>
 		<data>
-		BHrw59qZpwuAHXW8yG+ByiAoev8=
+		2NfiKwsdXKJcxe8XuFwefeDPMsI=
 		</data>
 		<key>Modules/InstaplyConnect.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		kgcnwYvyAGRVYH9FHlOuh5BW+qA=
+		KfDjV6rsbogoQ3/O5rt5IQmeX2c=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -76,7 +76,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ixW/XhuRinKgeW05cNbk7pgOKh8=
+			PBCravLBr5dW45vwU6ijCw81Ip4=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -85,7 +85,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			oNK3mjpi5aB1LFFifyyRNjWW4f4=
+			OokXzGbsJe3xLFTCveAYLHcMd+8=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -94,7 +94,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			gJ0tunZhK/TeX0GRmEt9LMXerDM=
+			2peW5FzqZjUFVnK+7nmjGqx8LBg=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -113,7 +113,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			MGM+H6Af4LAZLI/JujnV3k0k02sYnGuZI15Nj1eMapg=
+			WUchTl1NObt1q5h/9eVM2hIAqxCDg5Y3trCwkU3FhdI=
 			</data>
 		</dict>
 		<key>Headers/InstaplyConnect.h</key>
@@ -134,14 +134,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			FRH/PPLrhQ/5+zBnkmktV5L/XKqh+gZxGs+ecKg1poc=
+			NOYMQROjUQl9zZ4cy3g4XxKT60u4mGJg9LtWkDGS5Cg=
 			</data>
 		</dict>
 		<key>Modules/InstaplyConnect.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			s95cOB2fTDNTBnyA7J32vUZY04BqSB/XcXVOGxKkTEg=
+			gOAoYjqfedg9IlsR30ztakhBVKWafki9fXSG4w5q4HE=
 			</data>
 		</dict>
 		<key>Modules/InstaplyConnect.swiftmodule/arm64.swiftdoc</key>
@@ -155,14 +155,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			FRH/PPLrhQ/5+zBnkmktV5L/XKqh+gZxGs+ecKg1poc=
+			NOYMQROjUQl9zZ4cy3g4XxKT60u4mGJg9LtWkDGS5Cg=
 			</data>
 		</dict>
 		<key>Modules/InstaplyConnect.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			s95cOB2fTDNTBnyA7J32vUZY04BqSB/XcXVOGxKkTEg=
+			gOAoYjqfedg9IlsR30ztakhBVKWafki9fXSG4w5q4HE=
 			</data>
 		</dict>
 		<key>Modules/InstaplyConnect.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -176,14 +176,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			YJpg1HdOogFWcRAYbtELDvdbl8q/AQqla89/NqvBXnU=
+			ibSWrB98qoiYyJ7Sp9XFt1qyJZMB09Zg4cL1DYPodwM=
 			</data>
 		</dict>
 		<key>Modules/InstaplyConnect.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			FpecOfXW9zcr/nNEfMmwYXTCnWLhD6TWQ70LJsdsfyY=
+			yg7K9OK1HX1xKRvZU7RTKZI52CI2vBVDEdyUWYq7QU8=
 			</data>
 		</dict>
 		<key>Modules/InstaplyConnect.swiftmodule/x86_64.swiftdoc</key>
@@ -197,14 +197,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			YJpg1HdOogFWcRAYbtELDvdbl8q/AQqla89/NqvBXnU=
+			ibSWrB98qoiYyJ7Sp9XFt1qyJZMB09Zg4cL1DYPodwM=
 			</data>
 		</dict>
 		<key>Modules/InstaplyConnect.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			FpecOfXW9zcr/nNEfMmwYXTCnWLhD6TWQ70LJsdsfyY=
+			yg7K9OK1HX1xKRvZU7RTKZI52CI2vBVDEdyUWYq7QU8=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -218,7 +218,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			v9oe3jJiMH1KIbNQm8dJPUalWtnIvOG6gmskdx2HD1M=
+			W931Xy0AKRh6o79wZIejO+7Mj0r4wlIU/1mS2jC5dk8=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -227,7 +227,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			8nrcUyeadzT9+FbMX00ZUeUTImnzTcV/D6kgxcnsIeA=
+			oqwGsSm3vK5o3GAyyd0rq8x9XXat4QjwjCQF5JtaCCE=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -236,7 +236,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			lAEaPUxKsolBhdVo9dnRKZymT99FqdSc11B33di02SY=
+			empCctpBeQFA2qQwoNEOkdtF18bj+d5heL4QHmEzTr8=
 			</data>
 			<key>optional</key>
 			<true/>

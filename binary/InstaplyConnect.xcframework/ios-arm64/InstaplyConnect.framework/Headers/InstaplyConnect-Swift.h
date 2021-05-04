@@ -238,6 +238,7 @@ SWIFT_CLASS("_TtC15InstaplyConnect15GrowingTextView")
 
 
 
+
 #if __has_attribute(external_source_symbol)
 # pragma clang attribute pop
 #endif
